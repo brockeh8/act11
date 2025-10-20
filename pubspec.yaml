@@ -38,6 +38,13 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  image_picker: ^0.8.4+4
+  # For loading network images
+  http: ^0.13.3
+  # For showing images from base64 (if you choose that method)
+  flutter_image: ^4.1.13
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
